@@ -1,0 +1,15 @@
+D:\User Data\Derla\Desktop\homework_C#\Lesson1_2\obj\Debug\net6.0\Lesson1_2.csproj.AssemblyReference.cache
+D:\User Data\Derla\Desktop\homework_C#\Lesson1_2\obj\Debug\net6.0\Lesson1_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Data\Derla\Desktop\homework_C#\Lesson1_2\obj\Debug\net6.0\Lesson1_2.AssemblyInfoInputs.cache
+D:\User Data\Derla\Desktop\homework_C#\Lesson1_2\obj\Debug\net6.0\Lesson1_2.AssemblyInfo.cs
+D:\User Data\Derla\Desktop\homework_C#\Lesson1_2\obj\Debug\net6.0\Lesson1_2.csproj.CoreCompileInputs.cache
+D:\User Data\Derla\Desktop\homework_C#\Lesson1_2\bin\Debug\net6.0\Lesson1_2.exe
+D:\User Data\Derla\Desktop\homework_C#\Lesson1_2\bin\Debug\net6.0\Lesson1_2.deps.json
+D:\User Data\Derla\Desktop\homework_C#\Lesson1_2\bin\Debug\net6.0\Lesson1_2.runtimeconfig.json
+D:\User Data\Derla\Desktop\homework_C#\Lesson1_2\bin\Debug\net6.0\Lesson1_2.dll
+D:\User Data\Derla\Desktop\homework_C#\Lesson1_2\bin\Debug\net6.0\Lesson1_2.pdb
+D:\User Data\Derla\Desktop\homework_C#\Lesson1_2\obj\Debug\net6.0\Lesson1_2.dll
+D:\User Data\Derla\Desktop\homework_C#\Lesson1_2\obj\Debug\net6.0\refint\Lesson1_2.dll
+D:\User Data\Derla\Desktop\homework_C#\Lesson1_2\obj\Debug\net6.0\Lesson1_2.pdb
+D:\User Data\Derla\Desktop\homework_C#\Lesson1_2\obj\Debug\net6.0\Lesson1_2.genruntimeconfig.cache
+D:\User Data\Derla\Desktop\homework_C#\Lesson1_2\obj\Debug\net6.0\ref\Lesson1_2.dll
